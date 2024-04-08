@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Romanian_Map</class>
+ <widget class="QMainWindow" name="Romanian_Map">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Romanian_Map</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QCheckBox" name="cb0">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>61</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Arad</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb1">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>60</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bucharest</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>90</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Craiova</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>110</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Drobeta</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb4">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>140</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Eforie</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb5">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>170</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Fagaras</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb6">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>40</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Giurgiu</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb7">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>60</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Hirsova</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb8">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>80</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Iasi</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb9">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>110</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Lugoj</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb10">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>140</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Mehadia</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb11">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>160</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Neamt</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb12">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>200</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Oradea</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb13">
+    <property name="geometry">
+     <rect>
+      <x>130</x>
+      <y>230</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Pitesti</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb14">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>40</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rimnicu</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb15">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>70</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Sibiu</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb16">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>100</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Timisoara</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb17">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>130</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Urziceni</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb18">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>170</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Vaslui</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="cb19">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>190</y>
+      <width>55</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Zerind</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_bfs">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>30</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>BFS</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_clear">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>90</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>clear</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_dfs">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>150</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>DFS</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_Astar">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>210</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>A*</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
